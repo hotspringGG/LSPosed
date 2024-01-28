@@ -55,7 +55,7 @@ You can contribute translation [here](https://lsposed.crowdin.com/lsposed).
 
 ## Credits 
 
-- [Magisk](https://github.com/topjohnwu/Magisk/): makes all these possible
+- [Magisk](https://github.com/topjohnwu/Magisk/)/[KernelSU](https://github.com/tiann/KernelSU): makes all these possible
 - [Riru](https://github.com/RikkaApps/Riru): provides a way to inject code into zygote process
 - [XposedBridge](https://github.com/rovo89/XposedBridge): the OG Xposed framework APIs
 - [Dobby](https://github.com/jmpews/Dobby): used for inline hooking
